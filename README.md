@@ -1,4 +1,4 @@
-# computational_physics_python_notebooks
+# computational_physics_python_scripts_and_notebooks
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jyothischandran1597/computational_physics_python_notebooks.git/HEAD)
 
